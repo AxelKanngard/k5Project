@@ -1,0 +1,10 @@
+body{
+    background-color: brown;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    color: aqua;
+    font-size: 100px;
+}
